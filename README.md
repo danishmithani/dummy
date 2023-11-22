@@ -1,5 +1,5 @@
 # dummy
 some dummy repo
 
-## SUb-Header
+## Sub-Header
 some sleeky extra line
